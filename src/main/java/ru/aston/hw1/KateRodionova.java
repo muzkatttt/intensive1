@@ -8,11 +8,11 @@ import java.util.List;
  * Класс NameSurname содержит методы рыботы с объектом типа лист
  * @param <E> дженерик
  */
-public class NameSurname<E> implements IntensiveList<E>{
+public class KateRodionova<E> implements IntensiveList<E>{
 
     private final List<E> myArrayList;
 
-    public NameSurname() {
+    public KateRodionova() {
         myArrayList = new ArrayList<>();
     }
 

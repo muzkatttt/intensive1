@@ -2,7 +2,7 @@ package ru.aston.hw1;
 
 public class Main {
     public static void main(String[] args) {
-        var nameSurname = new NameSurname<Number>();
+        var nameSurname = new KateRodionova<Number>();
 
         nameSurname.add(1);
         nameSurname.add(2);
